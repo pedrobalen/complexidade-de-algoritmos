@@ -1,0 +1,147 @@
+Testando com lista de tamanho n = 100...
+    Bubble Sort: 0.000960 segundos
+    Selection Sort: 0.000777 segundos
+    Insertion Sort: 0.000400 segundos
+    Merge Sort: 0.000338 segundos
+    Quick Sort: 0.000166 segundos
+  Testando com lista de tamanho n = 500...
+    Bubble Sort: 0.027260 segundos
+    Selection Sort: 0.011920 segundos
+    Insertion Sort: 0.012010 segundos
+    Merge Sort: 0.001064 segundos
+    Quick Sort: 0.000923 segundos
+  Testando com lista de tamanho n = 1000...
+    Bubble Sort: 0.105167 segundos
+    Selection Sort: 0.049731 segundos
+    Insertion Sort: 0.042621 segundos
+    Merge Sort: 0.002280 segundos
+    Quick Sort: 0.002072 segundos
+  Testando com lista de tamanho n = 2500...
+    Bubble Sort: 0.650035 segundos
+    Selection Sort: 0.293754 segundos
+    Insertion Sort: 0.265294 segundos
+    Merge Sort: 0.006564 segundos
+    Quick Sort: 0.008477 segundos
+  Testando com lista de tamanho n = 5000...
+    Bubble Sort: 2.815060 segundos
+    Selection Sort: 1.254480 segundos
+    Insertion Sort: 1.071864 segundos
+    Merge Sort: 0.014266 segundos
+    Quick Sort: 0.015707 segundos
+  Testando com lista de tamanho n = 10000...
+    Bubble Sort: inf segundos
+    Selection Sort: inf segundos
+    Insertion Sort: inf segundos
+    Merge Sort: 0.032984 segundos
+    Quick Sort: 0.039921 segundos
+--- Iniciando Teste: Dados Já Ordenados ---
+  Testando com lista de tamanho n = 100...
+    Bubble Sort: 0.000016 segundos
+    Selection Sort: 0.000699 segundos
+    Insertion Sort: 0.000032 segundos
+    Merge Sort: 0.000231 segundos
+    Quick Sort: 0.001630 segundos
+  Testando com lista de tamanho n = 500...
+    Bubble Sort: 0.000100 segundos
+    Selection Sort: 0.013145 segundos
+    Insertion Sort: 0.000101 segundos
+    Merge Sort: 0.000982 segundos
+    Quick Sort: 0.032874 segundos
+  Testando com lista de tamanho n = 1000...
+    Bubble Sort: 0.000107 segundos
+    Selection Sort: 0.049667 segundos
+    Insertion Sort: 0.000238 segundos
+    Merge Sort: 0.002167 segundos
+    Quick Sort: 0.122082 segundos
+  Testando com lista de tamanho n = 2500...
+    Bubble Sort: 0.000413 segundos
+    Selection Sort: 0.296075 segundos
+    Insertion Sort: 0.000580 segundos
+    Merge Sort: 0.005992 segundos
+    Quick Sort: 0.770209 segundos
+  Testando com lista de tamanho n = 5000...
+    Bubble Sort: 0.000532 segundos
+    Selection Sort: 1.203511 segundos
+    Insertion Sort: 0.001051 segundos
+    Merge Sort: 0.013778 segundos
+    Quick Sort: 3.066118 segundos
+  Testando com lista de tamanho n = 10000...
+    Bubble Sort: inf segundos
+    Selection Sort: inf segundos
+    Insertion Sort: inf segundos
+    Merge Sort: 0.029954 segundos
+    Quick Sort: 12.149019 segundos
+--- Iniciando Teste: Dados Ordenados Inversamente ---
+  Testando com lista de tamanho n = 100...
+    Bubble Sort: 0.001563 segundos
+    Selection Sort: 0.000550 segundos
+    Insertion Sort: 0.001052 segundos
+    Merge Sort: 0.000217 segundos
+    Quick Sort: 0.000824 segundos
+  Testando com lista de tamanho n = 500...
+    Bubble Sort: 0.041532 segundos
+    Selection Sort: 0.012214 segundos
+    Insertion Sort: 0.021814 segundos
+    Merge Sort: 0.000964 segundos
+    Quick Sort: 0.019155 segundos
+  Testando com lista de tamanho n = 1000...
+    Bubble Sort: 0.151754 segundos
+    Selection Sort: 0.048883 segundos
+    Insertion Sort: 0.085688 segundos
+    Merge Sort: 0.002155 segundos
+    Quick Sort: 0.076272 segundos
+  Testando com lista de tamanho n = 2500...
+    Bubble Sort: 0.962487 segundos
+    Selection Sort: 0.300098 segundos
+    Insertion Sort: 0.542732 segundos
+    Merge Sort: 0.006786 segundos
+    Quick Sort: 0.465638 segundos
+  Testando com lista de tamanho n = 5000...
+    Bubble Sort: 3.823378 segundos
+    Selection Sort: 1.243222 segundos
+    Insertion Sort: 2.185998 segundos
+    Merge Sort: 0.013140 segundos
+    Quick Sort: 1.894475 segundos
+  Testando com lista de tamanho n = 10000...
+    Bubble Sort: inf segundos
+    Selection Sort: inf segundos
+    Insertion Sort: inf segundos
+    Merge Sort: 0.031387 segundos
+    Quick Sort: 7.412992 segundos
+--- Iniciando Teste: Dados com Muitas Repetições ---
+  Testando com lista de tamanho n = 100...
+    Bubble Sort: 0.001562 segundos
+    Selection Sort: 0.000507 segundos
+    Insertion Sort: 0.000673 segundos
+    Merge Sort: 0.000291 segundos
+    Quick Sort: 0.000244 segundos
+  Testando com lista de tamanho n = 500...
+    Bubble Sort: 0.027896 segundos
+    Selection Sort: 0.013478 segundos
+    Insertion Sort: 0.010235 segundos
+    Merge Sort: 0.001207 segundos
+    Quick Sort: 0.001409 segundos
+  Testando com lista de tamanho n = 1000...
+    Bubble Sort: 0.103997 segundos
+    Selection Sort: 0.048377 segundos
+    Insertion Sort: 0.042372 segundos
+    Merge Sort: 0.002983 segundos
+    Quick Sort: 0.002685 segundos
+  Testando com lista de tamanho n = 2500...
+    Bubble Sort: 0.651573 segundos
+    Selection Sort: 0.295973 segundos
+    Insertion Sort: 0.256875 segundos
+    Merge Sort: 0.006750 segundos
+    Quick Sort: 0.008632 segundos
+  Testando com lista de tamanho n = 5000...
+    Bubble Sort: 2.713577 segundos
+    Selection Sort: 1.204853 segundos
+    Insertion Sort: 1.125577 segundos
+    Merge Sort: 0.015143 segundos
+    Quick Sort: 0.017040 segundos
+  Testando com lista de tamanho n = 10000...
+    Bubble Sort: inf segundos
+    Selection Sort: inf segundos
+    Insertion Sort: inf segundos
+    Merge Sort: 0.034552 segundos
+    Quick Sort: 0.033985 segundos
